@@ -10,5 +10,5 @@
 
 ### 2015
 * Mail.Ru [C++ тестирование](https://certification.mail.ru/certificates/5006dfe5-2e71-4e9b-9c4f-8aa4dbfc7bde/)
-* Mail.Ru [Python тестирование]()
-* Retratech [Программирование на Python 3.0](http://certifications.ru/resume/203972/)
+* Mail.Ru [Python тестирование](https://certification.mail.ru/certificates/f7e139b9-ccb1-4906-b2e7-b3d8101f72f3/)
+* Retratech <a href="http://certifications.ru/resume/203972/" target="_blank">Программирование на Python 3.0</a>
