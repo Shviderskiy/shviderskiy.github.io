@@ -1,5 +1,3 @@
-<a href="https://github.com/Shviderskiy/"><img src="https://assets-cdn.github.com/favicon.ico"/></a>
-
 ## Электронные сертификаты
 
 ### 2017
